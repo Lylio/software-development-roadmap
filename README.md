@@ -17,7 +17,7 @@ on Java backend engineering, architecture and modern AI development.
 - Book study
 - Progress: 35%
 
-## ☕ Java / Spring
+## ☕🍃 Java / Spring
 
 - Java Integration Testing
 
