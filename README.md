@@ -3,6 +3,10 @@
 My continuing professional development roadmap, focused primarily
 on Java backend engineering, architecture and modern AI development.
 
+## 🗺️ Roadmap Overview
+
+![Software Development Trello Roadmap](images/trello-roadmap.png)
+
 ## ⚡ Now
 
 ### Designing Data-Intensive Applications
